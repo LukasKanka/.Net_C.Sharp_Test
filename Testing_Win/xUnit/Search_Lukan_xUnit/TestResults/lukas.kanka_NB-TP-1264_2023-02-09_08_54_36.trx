@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="99cdfa3c-3602-4a69-a7af-1df2372e1cb9" name="lukas.kanka@NB-TP-1264 2023-02-09 08:54:36" runUser="UNIPROG\lukas.kanka" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2023-02-09T08:54:36.1953136+01:00" queuing="2023-02-09T08:54:36.1953139+01:00" start="2023-02-09T08:54:07.3179035+01:00" finish="2023-02-09T08:54:36.2148501+01:00" />
+  <TestSettings name="default" id="fb90c911-7b18-48ad-9436-b7c71d12d08b">
+    <Deployment runDeploymentRoot="lukas.kanka_NB-TP-1264_2023-02-09_08_54_36" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="2b54b5c5-19e4-4d5e-8b00-a9fc3cdf572a" testId="6f7ec810-7e13-9fe3-b284-2a6adf74acdc" testName="Search.UnitTest1.Test1" computerName="NB-TP-1264" duration="00:00:16.4271322" startTime="2023-02-09T08:54:35.9724997+01:00" endTime="2023-02-09T08:54:35.9726443+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2b54b5c5-19e4-4d5e-8b00-a9fc3cdf572a" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Search.UnitTest1.Test1" storage="c:\testing.net\gitlab\testing\search_lukan_xunit\bin\debug\net7.0\search_lukan_xunit.dll" id="6f7ec810-7e13-9fe3-b284-2a6adf74acdc">
+      <Execution id="2b54b5c5-19e4-4d5e-8b00-a9fc3cdf572a" />
+      <TestMethod codeBase="C:\Testing.Net\GitLab\testing\Search_Lukan_xUnit\bin\Debug\net7.0\Search_Lukan_xUnit.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Search.UnitTest1" name="Test1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="6f7ec810-7e13-9fe3-b284-2a6adf74acdc" executionId="2b54b5c5-19e4-4d5e-8b00-a9fc3cdf572a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Výsledky neuvedené v seznamu" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Všechny načtené výsledky" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.5+1caef2f33e (64-bit .NET 7.0.2)&#xD;
+[xUnit.net 00:00:07.45]   Discovering: Search_Lukan_xUnit&#xD;
+[xUnit.net 00:00:07.50]   Discovered:  Search_Lukan_xUnit&#xD;
+[xUnit.net 00:00:07.50]   Starting:    Search_Lukan_xUnit&#xD;
+[xUnit.net 00:00:24.04]   Finished:    Search_Lukan_xUnit&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
