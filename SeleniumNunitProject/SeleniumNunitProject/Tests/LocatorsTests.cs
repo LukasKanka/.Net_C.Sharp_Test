@@ -49,7 +49,7 @@ namespace SeleniumNunitProject.Tests
             // xpath (text na hlavní straně h1)
             var xpathVAlidator = driver.FindElement(By.XPath("//h1")).Displayed;
             Assert.That(xpathVAlidator, Is.EqualTo(true));
-            Console.WriteLine(xpathVAlidator);
+            
 
             driver.Quit();
 
