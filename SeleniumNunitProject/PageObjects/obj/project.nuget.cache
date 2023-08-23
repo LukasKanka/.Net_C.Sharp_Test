@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "g0WnoF1I6bEL0qHM7/Fxx+Peisx7Fl2GOVgx6MKmYRNywc1iwkvugD6fQ+Y5WZeZ76sFoW+tTLPcpj8rVnumSQ==",
+  "dgSpecHash": "GV3updUXNUpyGxdZ9QcMw7RVv9TyvpGnkf6QRNJDhRZdknOsJvczueoPXdo/8X5XWOU1qaNRVst7bCveb7S/ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\SeleniumNunitProject\\SeleniumNunitProject\\SeleniumNunitBasic.csproj",
+  "projectFilePath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\SeleniumNunitProject\\PageObjects\\PageObjects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lukas\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.3.0\\dotnetseleniumextras.pageobjects.core.4.3.0.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumNunitProject", "SeleniumNunitProject\SeleniumNunitProject.csproj", "{438ED0C8-DD50-4197-AA5B-F57D5E44586B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumNunitBasic", "SeleniumNunitProject\SeleniumNunitBasic.csproj", "{438ED0C8-DD50-4197-AA5B-F57D5E44586B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageObjects", "PageObjects\PageObjects.csproj", "{4727D109-53C8-4917-BA85-2505BC6356D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{2104B9CC-ED9B-4B0F-BB15-8F96B760DC37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{438ED0C8-DD50-4197-AA5B-F57D5E44586B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{438ED0C8-DD50-4197-AA5B-F57D5E44586B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{438ED0C8-DD50-4197-AA5B-F57D5E44586B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4727D109-53C8-4917-BA85-2505BC6356D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4727D109-53C8-4917-BA85-2505BC6356D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4727D109-53C8-4917-BA85-2505BC6356D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4727D109-53C8-4917-BA85-2505BC6356D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2104B9CC-ED9B-4B0F-BB15-8F96B760DC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2104B9CC-ED9B-4B0F-BB15-8F96B760DC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2104B9CC-ED9B-4B0F-BB15-8F96B760DC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2104B9CC-ED9B-4B0F-BB15-8F96B760DC37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
