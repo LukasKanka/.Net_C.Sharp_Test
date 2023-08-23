@@ -10,6 +10,8 @@ namespace NUnitPageObjectModel.Source.Pages
     public class HomePage
     {   
         private IWebDriver _driver;
+        [FindsBy]
+        private IWebElement _searchtextbox;
         public HomePage(IWebDriver driver)
             
         {
