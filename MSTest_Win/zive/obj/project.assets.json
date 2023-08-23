@@ -416,7 +416,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "Selenium.WebDriver/4.8.1": {
+      "Selenium.WebDriver/4.11.0": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1"
@@ -428,7 +428,7 @@
           "lib/net6.0/WebDriver.dll": {}
         },
         "build": {
-          "build/Selenium.WebDriver.targets": {}
+          "buildTransitive/Selenium.WebDriver.targets": {}
         }
       },
       "System.Collections/4.3.0": {
@@ -1351,14 +1351,15 @@
         "runtime.native.system.nuspec"
       ]
     },
-    "Selenium.WebDriver/4.8.1": {
-      "sha512": "h4H7pEyr41Xf+IgmhNqrbF3I24SV02x2G1INS82pycNltg1q15/qVV/aRKu/MbMFKtqy1mVoNEE/4/p7T/4Ngw==",
+    "Selenium.WebDriver/4.11.0": {
+      "sha512": "V8o+Nvi9/3Ix12ZzMGg+fI7sfu+HrflZkMGq8Orr+j0INbfpEEyM6KR9oaaHlm0WUXcn7dTYwyWrJxYsi6eniw==",
       "type": "package",
-      "path": "selenium.webdriver/4.8.1",
+      "path": "selenium.webdriver/4.11.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "build/Selenium.WebDriver.targets",
+        "buildTransitive/Selenium.WebDriver.targets",
         "images/icon.png",
         "lib/net45/WebDriver.dll",
         "lib/net46/WebDriver.dll",
@@ -1371,7 +1372,7 @@
         "manager/linux/selenium-manager",
         "manager/macos/selenium-manager",
         "manager/windows/selenium-manager.exe",
-        "selenium.webdriver.4.8.1.nupkg.sha512",
+        "selenium.webdriver.4.11.0.nupkg.sha512",
         "selenium.webdriver.nuspec"
       ]
     },
@@ -2342,7 +2343,7 @@
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 3.0.2",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
-      "Selenium.WebDriver >= 4.8.1",
+      "Selenium.WebDriver >= 4.11.0",
       "coverlet.collector >= 3.1.2"
     ]
   },
@@ -2352,11 +2353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas\\OneDrive\\Programing\\GitHub\\MSTest_Win\\zive\\zive.csproj",
+      "projectUniqueName": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\MSTest_Win\\zive\\zive.csproj",
       "projectName": "zive",
-      "projectPath": "C:\\Users\\lukas\\OneDrive\\Programing\\GitHub\\MSTest_Win\\zive\\zive.csproj",
+      "projectPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\MSTest_Win\\zive\\zive.csproj",
       "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukas\\OneDrive\\Programing\\GitHub\\MSTest_Win\\zive\\obj\\",
+      "outputPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\MSTest_Win\\zive\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2397,7 +2398,7 @@
           },
           "Selenium.WebDriver": {
             "target": "Package",
-            "version": "[4.8.1, )"
+            "version": "[4.11.0, )"
           },
           "coverlet.collector": {
             "target": "Package",
@@ -2420,7 +2421,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

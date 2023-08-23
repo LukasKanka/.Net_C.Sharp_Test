@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Testing.Net\\GitHub\\Testing\\MSTest\\TestProject1\\TestProject1.csproj": {}
+    "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\Testing_Win\\MSTest\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
-    "c:\\Testing.Net\\GitHub\\Testing\\MSTest\\TestProject1\\TestProject1.csproj": {
+    "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\Testing_Win\\MSTest\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Testing.Net\\GitHub\\Testing\\MSTest\\TestProject1\\TestProject1.csproj",
+        "projectUniqueName": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\Testing_Win\\MSTest\\TestProject1\\TestProject1.csproj",
         "projectName": "TestProject1",
-        "projectPath": "c:\\Testing.Net\\GitHub\\Testing\\MSTest\\TestProject1\\TestProject1.csproj",
-        "packagesPath": "C:\\Users\\lukas.kanka\\.nuget\\packages\\",
-        "outputPath": "c:\\Testing.Net\\GitHub\\Testing\\MSTest\\TestProject1\\obj\\",
+        "projectPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\Testing_Win\\MSTest\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\Testing_Win\\MSTest\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lukas.kanka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

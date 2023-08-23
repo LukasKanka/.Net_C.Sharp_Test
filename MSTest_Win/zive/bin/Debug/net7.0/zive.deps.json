@@ -11,7 +11,7 @@
           "MSTest.TestAdapter": "2.2.10",
           "MSTest.TestFramework": "3.0.2",
           "Microsoft.NET.Test.Sdk": "17.5.0",
-          "Selenium.WebDriver": "4.8.1",
+          "Selenium.WebDriver": "4.11.0",
           "coverlet.collector": "3.1.2",
           "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions": "14.0.0.0"
         },
@@ -360,7 +360,7 @@
           "Microsoft.NETCore.Targets": "1.1.0"
         }
       },
-      "Selenium.WebDriver/4.8.1": {
+      "Selenium.WebDriver/4.11.0": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.1"
         },
@@ -583,12 +583,12 @@
       "path": "runtime.native.system/4.3.0",
       "hashPath": "runtime.native.system.4.3.0.nupkg.sha512"
     },
-    "Selenium.WebDriver/4.8.1": {
+    "Selenium.WebDriver/4.11.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-h4H7pEyr41Xf+IgmhNqrbF3I24SV02x2G1INS82pycNltg1q15/qVV/aRKu/MbMFKtqy1mVoNEE/4/p7T/4Ngw==",
-      "path": "selenium.webdriver/4.8.1",
-      "hashPath": "selenium.webdriver.4.8.1.nupkg.sha512"
+      "sha512": "sha512-V8o+Nvi9/3Ix12ZzMGg+fI7sfu+HrflZkMGq8Orr+j0INbfpEEyM6KR9oaaHlm0WUXcn7dTYwyWrJxYsi6eniw==",
+      "path": "selenium.webdriver/4.11.0",
+      "hashPath": "selenium.webdriver.4.11.0.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lukas\\OneDrive\\Programing\\GitHub\\MSTest_Win\\zive\\zive.csproj": {}
+    "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\MSTest_Win\\zive\\zive.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lukas\\OneDrive\\Programing\\GitHub\\MSTest_Win\\zive\\zive.csproj": {
+    "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\MSTest_Win\\zive\\zive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lukas\\OneDrive\\Programing\\GitHub\\MSTest_Win\\zive\\zive.csproj",
+        "projectUniqueName": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\MSTest_Win\\zive\\zive.csproj",
         "projectName": "zive",
-        "projectPath": "c:\\Users\\lukas\\OneDrive\\Programing\\GitHub\\MSTest_Win\\zive\\zive.csproj",
+        "projectPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\MSTest_Win\\zive\\zive.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lukas\\OneDrive\\Programing\\GitHub\\MSTest_Win\\zive\\obj\\",
+        "outputPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\MSTest_Win\\zive\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
             },
             "Selenium.WebDriver": {
               "target": "Package",
-              "version": "[4.8.1, )"
+              "version": "[4.11.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
