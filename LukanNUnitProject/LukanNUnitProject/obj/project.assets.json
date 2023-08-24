@@ -1093,9 +1093,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanNUnitProject\\LukanNUnitProject.csproj",
-      "projectName": "LukanNUnitProject",
-      "projectPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanNUnitProject\\LukanNUnitProject.csproj",
+      "projectUniqueName": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanNUnitProject\\LukanNUnitBasic.csproj",
+      "projectName": "LukanNUnitBasic",
+      "projectPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanNUnitProject\\LukanNUnitBasic.csproj",
       "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanNUnitProject\\obj\\",
       "projectStyle": "PackageReference",
