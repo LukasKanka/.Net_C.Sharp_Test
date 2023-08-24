@@ -14,28 +14,27 @@ using WebDriverManager;
 using WebDriverManager.DriverConfigs.Impl;
 using OpenQA.Selenium.Chrome;
 using LukanPOM.PageObjects;
+using LukanPOM.Common;
 
 namespace LukanPOM.Tests
 {
-    public class AcceptCookie
-    {
-        private IWebDriver? _driver;
-        [SetUp]
-        public void InitScript()
+    
+    
+        //private IWebDriver? _driver;
+        internal class HomePage : TestBase
         {
-            new DriverManager().SetUpDriver(new ChromeConfig());
-            _driver = new ChromeDriver();
-            _driver.Manage().Window.Maximize();
-        }
-        [Test]
-        public void TestCookie()
+            [Test]
+        public void AcceptCookieTest()
         {
-            HomePage hp = new HomePage(_driver);
-            _driver.Navigate().GoToUrl("https://lukan.cz");
-            hp.ZasadyOchrany();
+           
+        
+            home.AcceptCookie();
 
 
         }
+
+        
+        
 
     }
 }
