@@ -53,10 +53,17 @@ namespace LukanPOM.PageObjects
         Assert.AreEqual(expectedTitle, actualTitle);
         return this;
     }
+    public HomePage Screnshot()
+    {
+        string fileName = "example_" + DateTime.Now.ToString("yyyyMMdd_HHmmss") + ".png";
+             Screenshot screenshot = ((ITakesScreenshot)driver).GetScreenshot();
+             screenshot.SaveAsFile(@"C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\LukanNUnitProject\LukanNUnitProject\Foto\" + fileName, ScreenshotImageFormat.Png);
+             return this;
+    }
 
     public HomePage TestProsel()
     {
-        Console.Write("Test prošel");
+        Console.WriteLine("Test prošel");
         return this;
     }
     
