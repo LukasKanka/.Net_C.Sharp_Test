@@ -25,13 +25,14 @@ namespace LukanPOM.Tests
         {
             new DriverManager().SetUpDriver(new ChromeConfig());
             _driver = new ChromeDriver();
+            _driver.Manage().Window.Maximize();
         }
         [Test]
         public void TestCookie()
         {
             HomePage hp = new HomePage(_driver);
             _driver.Navigate().GoToUrl("https://lukan.cz");
-            hp.AcceptCookie();
+            hp.ZasadyOchrany();
 
 
         }

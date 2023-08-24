@@ -17,10 +17,13 @@ namespace LukanPOM.PageObjects
    public class HomePage
    {
     private IWebDriver _driver;
-    /*
-    [FindsBy(How = How.XPath, Using = "//div[2]/span")]
-    */
+    
+    [FindsBy(How = How.ClassName, Using = "eu-cookies-bar-tick")]
+    
     private IWebElement _clickcookieaccept;
+
+    [FindsBy(How = How.Id, Using = "menu-item-439")]
+    private IWebElement _clickzasadyochrany;
     
     public HomePage(IWebDriver driver)
     {
@@ -29,7 +32,13 @@ namespace LukanPOM.PageObjects
 
     public void AcceptCookie()
     {
-        _clickcookieaccept.FindElement(By.XPath("//div[2]/span")).Click();
+        _clickcookieaccept.Click();
+
+    }
+    public void ZasadyOchrany()
+    {
+        _clickzasadyochrany.Click();
+        
     }
    }
 }
