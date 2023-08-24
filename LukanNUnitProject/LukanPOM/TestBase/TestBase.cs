@@ -21,12 +21,14 @@ namespace LukanPOM.Common
             Driver.Navigate().GoToUrl("https://lukan.cz");
             Driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
             home = new HomePage(Driver);
+            
         }
 
 
         [TearDown]
         public void TearDown()
         {
+            
             Driver.Quit();
         }
     }

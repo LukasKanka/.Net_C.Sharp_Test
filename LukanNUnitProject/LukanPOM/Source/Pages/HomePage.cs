@@ -21,6 +21,7 @@ namespace LukanPOM.PageObjects
     
 
     IWebElement ClickAcceptCookie => driver.FindElement(By.XPath("//div[2]/span"));
+    IWebElement ClickDeclineCookie => driver.FindElement(By.XPath("//div[3]/span"));
     IWebElement ClickZasady => driver.FindElement(By.Id("menu-item-439"));
 
         
@@ -35,15 +36,28 @@ namespace LukanPOM.PageObjects
         ClickAcceptCookie.Click();
 
     }
+    public void DeclineCookie()
+    {
+        ClickDeclineCookie.Click();
+    }
     public void ZasadyOchrany()
     {
         
         ClickZasady.Click();
     }
 
-    public void  TitleTest()
+    public HomePage  Titulek()
     {
-     
+        string actualTitle = driver.Title;
+        string expectedTitle = "Lukáš bloguje - Blog o všem možném i nemožném";
+        Assert.AreEqual(expectedTitle, actualTitle);
+        return this;
+    }
+
+    public HomePage TestProsel()
+    {
+        Console.Write("Test prošel");
+        return this;
     }
     
         

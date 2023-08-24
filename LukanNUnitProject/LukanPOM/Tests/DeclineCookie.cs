@@ -21,14 +21,14 @@ namespace LukanPOM.Tests
     
     
         //private IWebDriver? _driver;
-        internal class HomePage : TestBase
+        internal class DeclineCookie : TestBase
         {
             [Test]
-        public void AcceptCookieTest()
+        public void DeclineCookieTest()
         {
            
         
-            home.AcceptCookie();
+            home.DeclineCookie();
 
 
         }

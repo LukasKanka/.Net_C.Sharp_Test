@@ -21,18 +21,20 @@ namespace LukanPOM.Tests
     
     
         //private IWebDriver? _driver;
-        internal class HomePage : TestBase
+        internal class TitleTest : TestBase
         {
             [Test]
-        public void AcceptCookieTest()
+        public void TitleVerifiTest()
         {
            
         
-            home.AcceptCookie();
+            home
+            .Titulek()
+            .TestProsel();
+            
 
 
         }
-        
 
         
         
