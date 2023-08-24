@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\NUnitPageObjectModel\\NUnitPageObjectModel\\NUnitPageObjectModel.csproj": {}
+    "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\NUnitPageObjectModel\\NUnitPageObjectModel\\NUnitPageObjectModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\NUnitPageObjectModel\\NUnitPageObjectModel\\NUnitPageObjectModel.csproj": {
+    "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\NUnitPageObjectModel\\NUnitPageObjectModel\\NUnitPageObjectModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\NUnitPageObjectModel\\NUnitPageObjectModel\\NUnitPageObjectModel.csproj",
+        "projectUniqueName": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\NUnitPageObjectModel\\NUnitPageObjectModel\\NUnitPageObjectModel.csproj",
         "projectName": "NUnitPageObjectModel",
-        "projectPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\NUnitPageObjectModel\\NUnitPageObjectModel\\NUnitPageObjectModel.csproj",
+        "projectPath": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\NUnitPageObjectModel\\NUnitPageObjectModel\\NUnitPageObjectModel.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\NUnitPageObjectModel\\NUnitPageObjectModel\\obj\\",
+        "outputPath": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\NUnitPageObjectModel\\NUnitPageObjectModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,6 +67,10 @@
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.11.0, )"
+            },
+            "WebDriverManager": {
+              "target": "Package",
+              "version": "[2.17.1, )"
             },
             "coverlet.collector": {
               "target": "Package",

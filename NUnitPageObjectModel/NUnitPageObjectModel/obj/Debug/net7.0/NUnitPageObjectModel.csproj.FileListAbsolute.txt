@@ -97,3 +97,12 @@ C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\NUnitPageObjectModel\NUnitPage
 C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\NUnitPageObjectModel\NUnitPageObjectModel\obj\Debug\net7.0\NUnitPageObjectModel.pdb
 C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\NUnitPageObjectModel\NUnitPageObjectModel\obj\Debug\net7.0\NUnitPageObjectModel.genruntimeconfig.cache
 C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\NUnitPageObjectModel\NUnitPageObjectModel\obj\Debug\net7.0\ref\NUnitPageObjectModel.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\NUnitPageObjectModel\NUnitPageObjectModel\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\NUnitPageObjectModel\NUnitPageObjectModel\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\NUnitPageObjectModel\NUnitPageObjectModel\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\NUnitPageObjectModel\NUnitPageObjectModel\bin\Debug\net7.0\AngleSharp.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\NUnitPageObjectModel\NUnitPageObjectModel\bin\Debug\net7.0\SeleniumExtras.PageObjects.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\NUnitPageObjectModel\NUnitPageObjectModel\bin\Debug\net7.0\WebDriver.Support.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\NUnitPageObjectModel\NUnitPageObjectModel\bin\Debug\net7.0\WebDriver.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\NUnitPageObjectModel\NUnitPageObjectModel\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\NUnitPageObjectModel\NUnitPageObjectModel\bin\Debug\net7.0\WebDriverManager.dll

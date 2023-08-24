@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\LukanPOM.csproj": {}
+    "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\LukanPOM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\LukanPOM.csproj": {
+    "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\LukanPOM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\LukanPOM.csproj",
+        "projectUniqueName": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\LukanPOM.csproj",
         "projectName": "LukanPOM",
-        "projectPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\LukanPOM.csproj",
+        "projectPath": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\LukanPOM.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\obj\\",
+        "outputPath": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,6 +71,10 @@
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.11.0, )"
+            },
+            "WebDriverManager": {
+              "target": "Package",
+              "version": "[2.17.1, )"
             },
             "coverlet.collector": {
               "target": "Package",

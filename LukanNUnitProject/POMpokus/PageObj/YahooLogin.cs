@@ -9,14 +9,16 @@ using NUnit.Framework;
 using SeleniumExtras.PageObjects;
 
 
+
 namespace POMpokus.PageObj
 
 {
     public class YahooLogin : BasePage
     {
-       
+       IWebDriver driver = new ChromeDriver();
        public YahooLogin(IWebDriver driver){
-        YahooLogin.driver = driver;
+        IWebDriver.driver = driver;
+        PageFactory.InitElements(driver,this);
        }
 
 

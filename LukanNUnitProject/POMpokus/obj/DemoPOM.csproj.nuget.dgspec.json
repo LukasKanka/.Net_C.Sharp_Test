@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\POMpokus\\DemoPOM.csproj": {}
+    "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\POMpokus\\DemoPOM.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\POMpokus\\DemoPOM.csproj": {
+    "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\POMpokus\\DemoPOM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\POMpokus\\DemoPOM.csproj",
+        "projectUniqueName": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\POMpokus\\DemoPOM.csproj",
         "projectName": "DemoPOM",
-        "projectPath": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\POMpokus\\DemoPOM.csproj",
+        "projectPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\POMpokus\\DemoPOM.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\POMpokus\\obj\\",
+        "outputPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\POMpokus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",

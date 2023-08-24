@@ -1,15 +1,40 @@
-namespace LukanPOM;
+using System;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Remote;
+using NUnit.Framework;
+using System.Threading;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using OpenQA.Selenium.Support.UI;
+using SeleniumExtras.PageObjects;
+using System.Net;
+using WebDriverManager;
+using WebDriverManager.DriverConfigs.Impl;
+using OpenQA.Selenium.Chrome;
+using LukanPOM.PageObjects;
 
-public class AcceptCookieTests
+namespace LukanPOM.Tests
 {
-    [SetUp]
-    public void Setup()
+    public class AcceptCookie
     {
-    }
+        private IWebDriver? _driver;
+        [SetUp]
+        public void InitScript()
+        {
+            new DriverManager().SetUpDriver(new ChromeConfig());
+            _driver = new ChromeDriver();
+        }
+        [Test]
+        public void TestCookie()
+        {
+            HomePage hp = new HomePage(_driver);
+            _driver.Navigate().GoToUrl("https://lukan.cz");
+            hp.AcceptCookie();
 
-    [Test]
-    public void Test1()
-    {
-        Assert.Pass();
+
+        }
+
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bfDioRMmcaocLLRpsjHet+oBBnSR7dgVbEF/KMBnCO5qsQ3eJ6FwRPp57lmqKCY/+nMTT+Qv2qvYGHvdYocZ4g==",
+  "dgSpecHash": "ruVVPcUkKixnNDLs9qntn2cspcBWGfeC8ToOudHKqz6AS6wsbaoh2gJBogUS/bDePBuB1ih4Ldw+J/5aSJ8c1Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\POMpokus\\DemoPOM.csproj",
+  "projectFilePath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\POMpokus\\DemoPOM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lukas\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.3.0\\dotnetseleniumextras.pageobjects.core.4.3.0.nupkg.sha512",
