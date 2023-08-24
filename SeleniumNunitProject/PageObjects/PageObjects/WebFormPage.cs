@@ -11,6 +11,7 @@ namespace PageObjects.PageObjects
     {
         // locators
         IWebElement TextArea => driver.FindElement(By.Name("my-textarea"));
+        IWebElement SubmitBtn => driver.FindElement(By.TagName("button"));
 
 
         IWebDriver driver;

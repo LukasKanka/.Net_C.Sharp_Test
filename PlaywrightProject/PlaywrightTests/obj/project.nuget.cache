@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wNCD7gr1/dMUVxBk4hBWKXSW/kACRT9c+NQs+Ots9mvlpJl+jxEdCEXMxhSzg3qH7BMjWvAmnLBGWV8vaT/UQw==",
+  "dgSpecHash": "DNRbnAmjsyGYMkT3/Vyn5uB3j5P+O1ZMtkn7yzZ7ARdywChKdQa8xHvcmd5uF1vKVx70rr+NL2C9tQVUsxAF8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\PlaywrightProject\\PlaywrightTests\\PlaywrightTests.csproj",
+  "projectFilePath": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\PlaywrightProject\\PlaywrightTests\\PlaywrightTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lukas\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
