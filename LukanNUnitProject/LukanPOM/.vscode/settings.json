@@ -1,2 +1,18 @@
 {
+    "dotnet-test-explorer.testProjectPath": "*Tests*",
+    "nunitTestRunner.projectsPatterns": [
+        "**/bin/*.Tests.dll",
+        "*Tests*"
+    ],
+    "nunitTestRunner.testsCategory": [
+        
+
+        {
+            "projectName": "Foo.dll",
+            "categories": [
+                "IntegrationTests",
+                "FunctionalTests"
+            ]
+        }
+    ]
 }

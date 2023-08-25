@@ -17,27 +17,18 @@ using LukanPOM.PageObjects;
 using LukanPOM.Common;
 
 namespace LukanPOM.Tests
-{
+
+    {
     
-    
-        //private IWebDriver? _driver;
+        
         internal class TitleTest : TestBase
         {
             [Test]
         public void TitleVerifiTest()
         {
-           
-        
-            home
+             home
             .Titulek()
             .TestProsel();
-            
-
-
         }
-
-        
-        
-
+        }
     }
-}
