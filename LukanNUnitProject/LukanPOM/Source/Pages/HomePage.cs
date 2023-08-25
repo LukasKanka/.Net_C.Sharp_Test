@@ -22,6 +22,7 @@ namespace LukanPOM.PageObjects
 
     IWebElement ClickAcceptCookie => driver.FindElement(By.XPath("//div[2]/span"));
     IWebElement ClickDeclineCookie => driver.FindElement(By.XPath("//div[3]/span"));
+
     IWebElement ClickZasady => driver.FindElement(By.Id("menu-item-439"));
 
         
@@ -36,7 +37,7 @@ namespace LukanPOM.PageObjects
         ClickAcceptCookie.Click();
 
     }
-    public void DeclineCookie()
+      public void DeclineCookie()
     {
         ClickDeclineCookie.Click();
     }

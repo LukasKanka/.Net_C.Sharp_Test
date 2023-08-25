@@ -28,7 +28,7 @@ namespace LukanPOM.Tests
         {
            
         
-            home.AcceptCookie();
+            Home.AcceptCookie();
 
 
         }

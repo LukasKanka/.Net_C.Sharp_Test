@@ -9,7 +9,8 @@ namespace LukanPOM.Common
 {
     internal class TestBase
     {
-        public HomePage home { get; private set; }
+        protected HomePage Home { get; private set; }
+        protected HomeTwo HomeTwo { get; private set; }
         protected IWebDriver Driver { get; private set; }
        
 
@@ -20,7 +21,8 @@ namespace LukanPOM.Common
             Driver.Manage().Window.Maximize();
             Driver.Navigate().GoToUrl("https://lukan.cz");
             Driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
-            home = new HomePage(Driver);
+            Home = new HomePage(Driver);
+            HomeTwo = new HomeTwo(Driver);
             
         }
 

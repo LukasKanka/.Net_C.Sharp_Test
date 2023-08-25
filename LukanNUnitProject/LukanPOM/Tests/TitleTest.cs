@@ -26,7 +26,7 @@ namespace LukanPOM.Tests
             [Test]
         public void TitleVerifiTest()
         {
-             home
+             Home
             .Titulek()
             .TestProsel();
         }
