@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\ZiveNUnitProject\\ZiveNUnitProject\\ZiveNUnitProject.csproj": {}
+    "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\ZiveNUnitProject\\ZiveNUnitProject\\ZiveNUnitProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\ZiveNUnitProject\\ZiveNUnitProject\\ZiveNUnitProject.csproj": {
+    "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\ZiveNUnitProject\\ZiveNUnitProject\\ZiveNUnitProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\ZiveNUnitProject\\ZiveNUnitProject\\ZiveNUnitProject.csproj",
+        "projectUniqueName": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\ZiveNUnitProject\\ZiveNUnitProject\\ZiveNUnitProject.csproj",
         "projectName": "ZiveNUnitProject",
-        "projectPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\ZiveNUnitProject\\ZiveNUnitProject\\ZiveNUnitProject.csproj",
+        "projectPath": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\ZiveNUnitProject\\ZiveNUnitProject\\ZiveNUnitProject.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\ZiveNUnitProject\\ZiveNUnitProject\\obj\\",
+        "outputPath": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\ZiveNUnitProject\\ZiveNUnitProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",

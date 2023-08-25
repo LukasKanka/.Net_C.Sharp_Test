@@ -9,7 +9,7 @@ namespace LukanPOM.Common
 {
     internal class TestBase
     {
-        protected HomePage Home { get; private set; }
+        public HomePage Home { get; private set; }
         protected HomeTwo HomeTwo { get; private set; }
         protected IWebDriver Driver { get; private set; }
        

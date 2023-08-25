@@ -3,12 +3,13 @@ using OpenQA.Selenium.Chrome;
 using System;
 using NUnit.Framework;
 using System.Threading;
+using OpenQA.Selenium.Firefox;
 
 namespace zive;
 
 public class Test
 {
-    IWebDriver driver = new ChromeDriver();
+    IWebDriver driver = new FirefoxDriver();
 
     [SetUp]
     public void Setup()

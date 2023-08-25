@@ -25,10 +25,18 @@ namespace LukanPOM.PageObjects
         {
             this.driver = driver;
         }
+        
 
         public void DeclineCookie2()
-    {
+       {
         ClickDeclineCookie2.Click();
+       }
+       public void Hledani()
+    {
+            IWebElement searchBox = driver.FindElement(By.Name("s"));
+            searchBox.SendKeys("test");
+            searchBox.Submit();
     }
+    
     }
 }
