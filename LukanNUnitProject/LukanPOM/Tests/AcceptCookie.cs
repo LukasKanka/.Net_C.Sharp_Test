@@ -32,10 +32,5 @@ namespace LukanPOM.Tests
 
 
         }
-        
-
-        
-        
-
-    }
+        }
 }

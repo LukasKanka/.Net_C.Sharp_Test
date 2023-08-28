@@ -14,5 +14,6 @@
                 "FunctionalTests"
             ]
         }
-    ]
+    ],
+    "dotnet.defaultSolution": "LukanPOM.sln"
 }
