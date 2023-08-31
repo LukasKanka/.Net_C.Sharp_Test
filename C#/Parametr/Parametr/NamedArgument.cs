@@ -18,7 +18,7 @@ namespace Parametr
 
         }
         static void PrintEmployeeDetail(string name, int age, int empid, bool supervisor = false) // <--- toto jsou parametry <--- , supervisor = nadřízený
-        {
+        {                                                                                        // supervizor je volitelný parametr --> vždy se dává na konec
             Console.WriteLine($"Name : {name}, Age : {age}, Employee ID : {empid}, IsSupervizer : {supervisor}");
         }
     }
