@@ -1,0 +1,14 @@
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Parametr\Parametr\obj\Debug\net6.0\Parametr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Parametr\Parametr\obj\Debug\net6.0\Parametr.AssemblyInfoInputs.cache
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Parametr\Parametr\obj\Debug\net6.0\Parametr.AssemblyInfo.cs
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Parametr\Parametr\obj\Debug\net6.0\Parametr.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Parametr\Parametr\bin\Debug\net6.0\Parametr.exe
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Parametr\Parametr\bin\Debug\net6.0\Parametr.deps.json
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Parametr\Parametr\bin\Debug\net6.0\Parametr.runtimeconfig.json
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Parametr\Parametr\bin\Debug\net6.0\Parametr.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Parametr\Parametr\bin\Debug\net6.0\Parametr.pdb
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Parametr\Parametr\obj\Debug\net6.0\Parametr.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Parametr\Parametr\obj\Debug\net6.0\refint\Parametr.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Parametr\Parametr\obj\Debug\net6.0\Parametr.pdb
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Parametr\Parametr\obj\Debug\net6.0\Parametr.genruntimeconfig.cache
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Parametr\Parametr\obj\Debug\net6.0\ref\Parametr.dll
