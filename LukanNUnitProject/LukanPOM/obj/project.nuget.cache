@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L64oV5yPYNTp6H0q5h5ZpCr1rB5llR3BmzHBmVo7vTODNV3WQdXvoXpAbFWaJhT+3AdzG6DAEN/WIeIe1fFsTw==",
+  "dgSpecHash": "Slo1J2yd5r4ogIljtaz/NAuVLmZv96kABWXa4B2xnZN/1Vg8kuEy6KgYmVwz5KHNLLv5r8MNuOfS4TYEDERchQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\LukanPOM.csproj",
+  "projectFilePath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\LukanPOM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lukas\\.nuget\\packages\\anglesharp\\1.0.4\\anglesharp.1.0.4.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
