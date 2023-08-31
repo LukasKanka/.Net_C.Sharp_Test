@@ -20,7 +20,7 @@ namespace LukanPOM.Tests
 {
     
     
-        //private IWebDriver? _driver;
+        
         internal class HomePage : TestBase
         {
             [Test]

@@ -1,0 +1,14 @@
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\C#Basic\obj\Debug\net7.0\C#Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\C#Basic\obj\Debug\net7.0\C#Basic.AssemblyInfoInputs.cache
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\C#Basic\obj\Debug\net7.0\C#Basic.AssemblyInfo.cs
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\C#Basic\obj\Debug\net7.0\C#Basic.csproj.CoreCompileInputs.cache
+c:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\C#Basic\bin\Debug\net7.0\C#Basic.exe
+c:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\C#Basic\bin\Debug\net7.0\C#Basic.deps.json
+c:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\C#Basic\bin\Debug\net7.0\C#Basic.runtimeconfig.json
+c:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\C#Basic\bin\Debug\net7.0\C#Basic.dll
+c:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\C#Basic\bin\Debug\net7.0\C#Basic.pdb
+c:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\C#Basic\obj\Debug\net7.0\C#Basic.dll
+c:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\C#Basic\obj\Debug\net7.0\refint\C#Basic.dll
+c:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\C#Basic\obj\Debug\net7.0\C#Basic.pdb
+c:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\C#Basic\obj\Debug\net7.0\C#Basic.genruntimeconfig.cache
+c:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\C#Basic\obj\Debug\net7.0\ref\C#Basic.dll

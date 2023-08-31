@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mpt3rrrr3aIv172iP52qKEveddp9Y7qv5ocYa2pGtcSCmU7FH4PiBhg2cSWUYsqqLGP7pWJwwnImsfx/cenLeQ==",
+  "dgSpecHash": "Mhiytn3E4+Z+qSd0pZxzVJsw7NiqJt6gsbujYmipuD3hpBTcZrzy2q6HxmmACx39kgVS5HDW24KLxkyyttIM3Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\ZiveNUnitProject\\ZiveNUnitProject\\ZiveNUnitProject.csproj",
+  "projectFilePath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\ZiveNUnitProject\\ZiveNUnitProject\\ZiveNUnitProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lukas\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.3.0\\dotnetseleniumextras.pageobjects.core.4.3.0.nupkg.sha512",

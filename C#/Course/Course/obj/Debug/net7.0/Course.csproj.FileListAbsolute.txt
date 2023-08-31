@@ -1,0 +1,14 @@
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Course\Course\bin\Debug\net7.0\Course.exe
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Course\Course\bin\Debug\net7.0\Course.deps.json
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Course\Course\bin\Debug\net7.0\Course.runtimeconfig.json
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Course\Course\bin\Debug\net7.0\Course.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Course\Course\bin\Debug\net7.0\Course.pdb
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Course\Course\obj\Debug\net7.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Course\Course\obj\Debug\net7.0\Course.AssemblyInfoInputs.cache
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Course\Course\obj\Debug\net7.0\Course.AssemblyInfo.cs
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Course\Course\obj\Debug\net7.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Course\Course\obj\Debug\net7.0\Course.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Course\Course\obj\Debug\net7.0\refint\Course.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Course\Course\obj\Debug\net7.0\Course.pdb
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Course\Course\obj\Debug\net7.0\Course.genruntimeconfig.cache
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Course\Course\obj\Debug\net7.0\ref\Course.dll
