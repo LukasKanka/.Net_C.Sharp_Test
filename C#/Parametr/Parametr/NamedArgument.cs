@@ -10,15 +10,16 @@ namespace Parametr
     {
         public static void Main(string[] args)
         {
-            PrintEmployeeDetail("Franta", 12, 2015);
+            PrintEmployeeDetail("Franta", 42, 2015);
+            PrintEmployeeDetail("Honza", 32, 2217, true);
 
-            PrintEmployeeDetail(age: 34, name: "Karel", empid: 2345); // tímto způsobem nemusíme dodržovat pořadí argumentů
+            //PrintEmployeeDetail(age: 34, name: "Karel", empid: 2345); // tímto způsobem nemusíme dodržovat pořadí argumentů
 
 
         }
-        static void PrintEmployeeDetail(string name, int age, int empid)
+        static void PrintEmployeeDetail(string name, int age, int empid, bool supervisor = false) // <--- toto jsou parametry <--- , supervisor = nadřízený
         {
-            Console.WriteLine($"Name : {name}, Age : {age}, Employee ID : {empid}");
+            Console.WriteLine($"Name : {name}, Age : {age}, Employee ID : {empid}, IsSupervizer : {supervisor}");
         }
     }
     
