@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LukanPOM.Tests
 {
-    //[Parallelizable(ParallelScope.All)]
+    [Parallelizable(ParallelScope.All)] // v mém případě zakomentovaným paraller test, test proběhl rychleji!
     internal class ParallelTest : TestBase
     {
         [Test]

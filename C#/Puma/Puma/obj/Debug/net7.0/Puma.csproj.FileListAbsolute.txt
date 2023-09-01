@@ -1,0 +1,14 @@
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Puma\Puma\bin\Debug\net7.0\Puma.exe
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Puma\Puma\bin\Debug\net7.0\Puma.deps.json
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Puma\Puma\bin\Debug\net7.0\Puma.runtimeconfig.json
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Puma\Puma\bin\Debug\net7.0\Puma.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Puma\Puma\bin\Debug\net7.0\Puma.pdb
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Puma\Puma\obj\Debug\net7.0\Puma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Puma\Puma\obj\Debug\net7.0\Puma.AssemblyInfoInputs.cache
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Puma\Puma\obj\Debug\net7.0\Puma.AssemblyInfo.cs
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Puma\Puma\obj\Debug\net7.0\Puma.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Puma\Puma\obj\Debug\net7.0\Puma.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Puma\Puma\obj\Debug\net7.0\refint\Puma.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Puma\Puma\obj\Debug\net7.0\Puma.pdb
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Puma\Puma\obj\Debug\net7.0\Puma.genruntimeconfig.cache
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\C#\Puma\Puma\obj\Debug\net7.0\ref\Puma.dll
