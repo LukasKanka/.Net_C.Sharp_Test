@@ -5,11 +5,17 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstProgram", "FirstProgram\FirstProgram.csproj", "{8F901E81-AE4D-4D7E-9BCA-4B3ACBBA72F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProměnneVariables", "Proměnne\ProměnneVariables.csproj", "{3C541B7C-BAAC-4531-94E7-A8AD571D8F1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProměnneVariables", "Proměnne\ProměnneVariables.csproj", "{3C541B7C-BAAC-4531-94E7-A8AD571D8F1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatoveTypy", "DatoveTypy\DatoveTypy.csproj", "{68EEE325-FD9E-4B4E-8BB3-DF8D5CAA4DEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatoveTypy", "DatoveTypy\DatoveTypy.csproj", "{68EEE325-FD9E-4B4E-8BB3-DF8D5CAA4DEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retezce", "Retezce\Retezce.csproj", "{7CFC35AD-3DBC-4A9D-8211-312C2DB4A6EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Retezce", "Retezce\Retezce.csproj", "{7CFC35AD-3DBC-4A9D-8211-312C2DB4A6EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cisla", "Cisla\Cisla.csproj", "{8F123E45-4850-4BB0-A5FA-83BBC2FDD3C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VstupInput", "VstupInput\VstupInput.csproj", "{51FE4654-35E1-418E-B38C-A41A8029F847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulackaNasobicka", "Kalkulacka\KalkulackaNasobicka.csproj", "{03E61220-F462-4F1C-A480-C348A617AE30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{7CFC35AD-3DBC-4A9D-8211-312C2DB4A6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CFC35AD-3DBC-4A9D-8211-312C2DB4A6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CFC35AD-3DBC-4A9D-8211-312C2DB4A6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F123E45-4850-4BB0-A5FA-83BBC2FDD3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F123E45-4850-4BB0-A5FA-83BBC2FDD3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F123E45-4850-4BB0-A5FA-83BBC2FDD3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F123E45-4850-4BB0-A5FA-83BBC2FDD3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51FE4654-35E1-418E-B38C-A41A8029F847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FE4654-35E1-418E-B38C-A41A8029F847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FE4654-35E1-418E-B38C-A41A8029F847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FE4654-35E1-418E-B38C-A41A8029F847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E61220-F462-4F1C-A480-C348A617AE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E61220-F462-4F1C-A480-C348A617AE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E61220-F462-4F1C-A480-C348A617AE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E61220-F462-4F1C-A480-C348A617AE30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
