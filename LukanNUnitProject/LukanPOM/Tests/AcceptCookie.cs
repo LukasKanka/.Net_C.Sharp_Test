@@ -21,7 +21,7 @@ namespace LukanPOM.Tests
     
     
         
-        internal class HomePage : TestBase
+        internal class AcceptCookie : TestBase
         {
             [Test]
         public void AcceptCookieTest()

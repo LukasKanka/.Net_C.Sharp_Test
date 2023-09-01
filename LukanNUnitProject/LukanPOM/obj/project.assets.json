@@ -1754,11 +1754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\LukanPOM.csproj",
+      "projectUniqueName": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\LukanPOM.csproj",
       "projectName": "LukanPOM",
-      "projectPath": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\LukanPOM.csproj",
+      "projectPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\LukanPOM.csproj",
       "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\obj\\",
+      "outputPath": "C:\\Users\\lukas\\Nextcloud\\GitHub\\.Net_C.Sharp_Test\\LukanNUnitProject\\LukanPOM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",

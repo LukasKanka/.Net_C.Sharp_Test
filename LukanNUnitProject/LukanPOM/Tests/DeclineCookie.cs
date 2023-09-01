@@ -20,7 +20,6 @@ namespace LukanPOM.Tests
 {
     
     
-        //private IWebDriver? _driver;
         internal class DeclineCookie : TestBase
         {
             [Test]
