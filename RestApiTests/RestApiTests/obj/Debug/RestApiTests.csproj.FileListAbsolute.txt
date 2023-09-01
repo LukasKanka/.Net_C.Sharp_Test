@@ -36,3 +36,6 @@ C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\RestApiTests\RestApiTests\obj\
 C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\RestApiTests\RestApiTests\obj\Debug\RestApiTests.pdb
 C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\RestApiTests\RestApiTests\bin\Debug\Newtonsoft.Json.dll
 C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\RestApiTests\RestApiTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\RestApiTests\RestApiTests\bin\Debug\FluentAssertions.dll
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\RestApiTests\RestApiTests\bin\Debug\FluentAssertions.pdb
+C:\Users\lukas\Nextcloud\GitHub\.Net_C.Sharp_Test\RestApiTests\RestApiTests\bin\Debug\FluentAssertions.xml
