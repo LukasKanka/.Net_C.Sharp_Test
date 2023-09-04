@@ -1,4 +1,4 @@
-﻿namespace Kalkulacka
+﻿namespace KalkulackaNasobicka
 {
     internal class Program
     {
